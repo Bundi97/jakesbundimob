@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-mergeDebugResources-49:/layout/fragment_add_tenant.xml",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/fragment_add_tenant.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-mergeDebugResources-49:/layout/nav_header.xml",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-mergeDebugResources-49:/layout/fragment_view_tenants.xml",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/fragment_view_tenants.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-mergeDebugResources-49:/layout/fragment_dashboard.xml",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-mergeDebugResources-49:/layout/activity_register.xml",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-mergeDebugResources-49:/layout/activity_login.xml",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/activity_main.xml"
+    }
+]

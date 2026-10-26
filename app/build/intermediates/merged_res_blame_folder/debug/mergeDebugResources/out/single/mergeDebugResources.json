@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-debug-50:/navigation_nav_graph.xml.flat",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-debug-50:/menu_drawer_menu.xml.flat",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-debug-50:/menu_main_menu.xml.flat",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-debug-50:/layout_activity_login.xml.flat",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-debug-50:/layout_fragment_add_tenant.xml.flat",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/fragment_add_tenant.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-debug-50:/layout_activity_main.xml.flat",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-debug-50:/layout_nav_header.xml.flat",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-debug-50:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-debug-50:/layout_activity_register.xml.flat",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.tenantmanagementsystemgroupa.app-debug-50:/layout_fragment_view_tenants.xml.flat",
+        "source": "com.example.tenantmanagementsystemgroupa.app-main-52:/layout/fragment_view_tenants.xml"
+    }
+]
